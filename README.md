@@ -2,7 +2,7 @@
 
 Public English-language website for Cinelace, an automatic video creation tool using open AI models, planned for Windows and iPad. Maintained separately from the private application repository.
 
-This is a static HTML/CSS site. Publish the `main` branch root with GitHub Pages; no build step is required. The planned public URL is `https://nikkittap.github.io/cinelace-app/`, or `https://nikitapetrovapps.com/cinelace-app/` once the user site's custom domain is connected.
+This is a static HTML/CSS site. Publish the `main` branch root with GitHub Pages; no build step is required. The public URL is `https://nikitapetrovapps.com/cinelace-app/`.
 
 Cinelace is clearly marked as in development. The page describes the local-first travel-video workflow and uses the existing application icon.
 
